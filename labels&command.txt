@@ -1,0 +1,11 @@
+디지털/테크
+리빙
+모자
+가방/지갑
+신발
+뷰티/악세사리
+옷
+etc
+
+명령어 : 
+tensorflow_model_server --port=8500 --rest_api_port=8501 --model_name=saved_model --model_base_path=/home/ubuntu/send-wish_tf-serving/tf-serving/
